@@ -1,4 +1,4 @@
-# Mv-TCNN
+# Task Conditional Neural Networks (TCNN)
 
 Main Dependencies:
 
